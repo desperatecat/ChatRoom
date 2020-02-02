@@ -1,6 +1,6 @@
 # ChatRoom project with react/redux/express/mongoDB
 
-deploy to:
+deploy to: https://mintbean-chatroom.herokuapp.com/
 
 ## Quick Start
 
