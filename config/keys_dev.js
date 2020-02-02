@@ -1,5 +1,4 @@
 module.exports = {
-  mongoURI:
-    "mongodb+srv://chatroomadmin:chatroomadmin@cluster0-f7msu.mongodb.net/test?retryWrites=true&w=majority",
+  mongoURI: "your own mongo db connection",
   secretOrKey: "secret"
 };
