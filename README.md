@@ -1,6 +1,6 @@
 # ChatRoom project with react/redux/express/mongoDB
 
-deploy to: https://mintbean-chatroom.herokuapp.com/
+Project already been deployed to: https://mintbean-chatroom.herokuapp.com/
 
 ## Quick Start
 
@@ -11,3 +11,5 @@ Create a new DB and cluster in MongoDB, then update the credentials in `config/k
 
 Also in root folder, run this scipt to launch both client/server:
 `npm run dev`
+
+Then, visit: http://localhost:3000/
