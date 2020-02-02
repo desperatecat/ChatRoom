@@ -25,6 +25,12 @@ export default function(state = initialState, action) {
         posts: action.payload,
         loading: false
       };
+
+    case ADD_POST:
+      return {
+        ...state,
+        posts: [action.payload, ...state.posts] //add a new post
+      };
     default:
       return state;
   }
